@@ -1,0 +1,6 @@
+/* In a global CSS file */
+:root {
+  --primary-color: #ff3131;
+  --secondary-color: black;
+  --third-color: white;
+}
